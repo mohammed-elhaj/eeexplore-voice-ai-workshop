@@ -1,0 +1,20 @@
+# LiveKit Agents SDK and plugins
+livekit-agents>=1.0.0
+livekit-plugins-silero
+livekit-plugins-elevenlabs
+livekit-plugins-google
+
+# Direct SDKs (for Session 1 basic pipeline demo)
+google-genai
+elevenlabs
+
+# RAG dependencies
+annoy
+
+# Web search
+duckduckgo-search
+
+# Utilities
+python-dotenv
+numpy
+sounddevice
